@@ -1,4 +1,4 @@
-# Fullstack Task Manager (MERN) Assignment to Suprkid.in internship program
+# Fullstack Task Manager (MERN)
 
 
 
